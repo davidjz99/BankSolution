@@ -1,0 +1,50 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "David",
+    "Email": "angel99jz@gmail.com",
+    "Balance": 122400.0,
+    "RegisterDate": "2022-07-19T13:21:29.0119495-05:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "Eduardo",
+    "Email": "eduardo@gmail.com",
+    "Balance": 15225.0,
+    "RegisterDate": "2022-07-19T13:21:29.0206593-05:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 3,
+    "Name": "Erick",
+    "Email": "erick123@gmail.com",
+    "Balance": 14280.0,
+    "RegisterDate": "2022-07-21T17:05:40.5381899-05:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 4,
+    "Name": "Rebeca",
+    "Email": "rebe@gmail.com",
+    "Balance": 1995.0,
+    "RegisterDate": "2022-07-23T13:18:04.1859058-05:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 5,
+    "Name": "Rebeca",
+    "Email": "rebeca22@gmail.com",
+    "Balance": 1224.0,
+    "RegisterDate": "2022-07-25T08:44:05.9339473-05:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 6,
+    "Name": "Diego",
+    "Email": "diegoxx@hotmail.com",
+    "Balance": 945.0,
+    "RegisterDate": "2022-07-25T08:46:12.0308783-05:00"
+  }
+]
